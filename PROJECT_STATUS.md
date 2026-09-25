@@ -6,12 +6,12 @@ PASS_WITH_NOTES: the reusable package passed structural, semantic, and sanitizat
 
 ## Latest Known State
 
-The reusable skill, generic documentation, dependency-free structural validator, and local Git repository are present. The validator self-check, negative-path check, structural package check, and automated sanitization scan pass. It identifies existing source-workspace records that lack one or more required status headings; no source records were rewritten as part of this package extraction.
+The reusable skill, generic documentation, dependency-free structural validator, and public GitHub remote are present. The validator self-check, negative-path check, structural package check, and automated sanitization scan pass. It identifies existing source-workspace records that lack one or more required status headings; no source records were rewritten as part of this package extraction.
 
 ## Risks/Blockers
 
-A structural pass cannot verify prose freshness, factual accuracy, completed checks, or the preservation of qualifying conditions. Public release also requires a deliberate repository visibility decision and confirmation that MIT is the intended license.
+A structural pass cannot verify prose freshness, factual accuracy, completed checks, or the preservation of qualifying conditions. The existing source workspace still needs a separate, deliberate migration of legacy status headings before it can claim compliance with this stricter structural contract.
 
 ## Next Best Starting Point
 
-Create the approved public repository and initial commit, then synchronize this record and the workspace index to reflect the publication. Separately plan any migration of legacy status headings before claiming the existing workspace complies with this skill.
+Use the published skill for new or migrated project work. Separately plan the legacy status-heading migration before claiming the existing workspace complies with this skill.
